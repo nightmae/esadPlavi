@@ -3,7 +3,7 @@
 @import "tailwindcss/utilities";
 
 .theme-dark {
-    --accent-color: rgb(59, 130, 246, var(--tw-bg-opacity));
+    --accent-color: rgb(59, 130, 246);
     --background-1: rgb(23, 23, 25);
     --background-2: rgb(15, 15, 15);
     --background-accent: rgb(10, 10, 10);
